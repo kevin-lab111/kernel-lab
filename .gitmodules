@@ -1,6 +1,6 @@
-[submodule "linux"]
-	path = linux
-	url = git@github.com:kevin-lab111/linux.git
 [submodule "qemu"]
 	path = qemu
 	url = git@github.com:kevin-lab111/qemu.git
+[submodule "linux"]
+	path = linux
+	url = git@github.com:kevin-lab111/linux.git
