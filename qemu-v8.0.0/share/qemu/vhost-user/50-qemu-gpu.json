@@ -1,0 +1,5 @@
+{
+  "description": "QEMU vhost-user-gpu",
+  "type": "gpu",
+  "binary": "/home/kfzhao/code/kernel-lab/qemu/../qemu-v8.0.0/libexec/vhost-user-gpu"
+}
